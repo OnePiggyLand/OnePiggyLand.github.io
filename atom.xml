@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://OnePiggyLand.github.io</id>
     <title>one piggy land</title>
-    <updated>2020-12-09T21:34:51.827Z</updated>
+    <updated>2020-12-10T22:38:57.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://OnePiggyLand.github.io"/>
     <link rel="self" href="https://OnePiggyLand.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://OnePiggyLand.github.io/images/avatar.png</logo>
     <icon>https://OnePiggyLand.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, one piggy land</rights>
+    <entry>
+        <title type="html"><![CDATA[第二永夜]]></title>
+        <id>https://OnePiggyLand.github.io/post/di-er-yong-ye/</id>
+        <link href="https://OnePiggyLand.github.io/post/di-er-yong-ye/">
+        </link>
+        <updated>2020-12-10T15:20:47.000Z</updated>
+        <content type="html"><![CDATA[<p>（像高中时期凡尔赛文学的标题</p>
+<p>众所周知 十年如一日的寒窗苦读是为了找个好工作，对大部分来说<br>
+找好工作是你走向人生巅峰的奠基石💎，是打开幸福大门的敲门砖🔑，是一辈子有所养有所依的基础中的基础，重点中的重点⭕️</p>
+<p>现在，检验我有没有好好读书的时刻到了🙃（哔哔哔哔</p>
+<p>好工作，什么是好工作呢<br>
+对大多数猪崽（特指 — 我）来说必须是稳定又赚钱多，安全又清闲，没有七嘴八舌的同事没有处处讨嫌的上司，补贴又给房<br>
+你做梦呢？ 我凭啥？？</p>
+<p>毕业了 我能掏出来个什么果子呢🍎<br>
+害 苹果吧 我喜欢吃桃🍑</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[防火防盗防闺蜜！]]></title>
         <id>https://OnePiggyLand.github.io/post/fang-huo-fang-dao-fang-gui-mi/</id>
